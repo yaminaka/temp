@@ -34,7 +34,7 @@
   <card key="carnagetyrant" sideA="436530" sideB="" />
   <card key="castawaysdespair" sideA="436638" sideB="" />
   <card key="chargingmonstrosaur" sideA="436488" sideB="" />
-  <card key="chartcourse" sideA="436396" sideB="" />
+  <card key="chartacourse" sideA="436396" sideB="" />
   <card key="cobbledwings" sideA="436585" sideB="" />
   <card key="colossaldreadmaw" sideA="436531" sideB="" />
   <card key="communewithdinosaurs" sideA="436532" sideB="" />
@@ -507,7 +507,7 @@
   <card key="blackbladereforged" sideA="444444" sideB="" />
   <card key="blessedlight" sideA="444240" sideB="" />
   <card key="blessingofbelzenlok" sideA="444310" sideB="" />
-  <card key="blinkofneye" sideA="444279" sideB="" />
+  <card key="blinkofaneye" sideA="444279" sideB="" />
   <card key="bloodstonegoblin" sideA="444348" sideB="" />
   <card key="bloodtallowcandle" sideA="444445" sideB="" />
   <card key="boardtheweatherlight" sideA="444241" sideB="" />
@@ -557,7 +557,7 @@
   <card key="finalparting" sideA="444326" sideB="" />
   <card key="fireelemental" sideA="444353" sideB="" />
   <card key="firefistadept" sideA="444354" sideB="" />
-  <card key="firesongndsunspeaker" sideA="445963" sideB="" />
+  <card key="firesongandsunspeaker" sideA="445963" sideB="" />
   <card key="forebearsblade" sideA="444447" sideB="" />
   <card key="frenziedrage" sideA="444357" sideB="" />
   <card key="fungalinfection" sideA="444327" sideB="" />
@@ -873,13 +873,13 @@
   <card key="lichscaress" sideA="448646" sideB="" />
   <card key="lightningmare" sideA="448692" sideB="" />
   <card key="lilianathenecromancer" sideA="450408" sideB="" />
-  <card key="lilianauntouchedydeath" sideA="448647" sideB="" />
+  <card key="lilianauntouchedbydeath" sideA="448647" sideB="" />
   <card key="lilianascontract" sideA="448648" sideB="" />
   <card key="lilianasspoils" sideA="450411" sideB="" />
   <card key="loxodonlinebreaker" sideA="448565" sideB="" />
   <card key="macabrewaltz" sideA="448649" sideB="" />
   <card key="magistratesscepter" sideA="448780" sideB="" />
-  <card key="makestand" sideA="448567" sideB="" />
+  <card key="makeastand" sideA="448567" sideB="" />
   <card key="manalith" sideA="448781" sideB="" />
   <card key="maraudersaxe" sideA="448782" sideB="" />
   <card key="mentorofthemeek" sideA="448568" sideB="" />
