@@ -1028,8 +1028,7 @@
   <card key="bloodoperative" sideA="454108" sideB="" />
   <card key="bookdevourer" sideA="454138" sideB="" />
   <card key="boroschallenger" sideA="454201" sideB="" />
-  <card key="a" sideA="454288" sideB="" />
-  <card key="b" sideA="454289" sideB="" />
+  <card key="borosguildgate" sideA="454288" sideB="" />
   <card key="boroslocket" sideA="454276" sideB="" />
   <card key="bountyagent" sideA="454047" sideB="" />
   <card key="bountyofmight" sideA="454169" sideB="" />
@@ -1066,6 +1065,7 @@
   <card key="demotion" sideA="454054" sideB="" />
   <card key="deviouscoverup" sideA="454080" sideB="" />
   <card key="devkarindissident" sideA="454172" sideB="" />
+  <card key="dimirguildgate" sideA="454290" sideB="" />
   <card key="dimirinformant" sideA="454081" sideB="" />
   <card key="dimirlocket" sideA="454279" sideB="" />
   <card key="dimirspybug" sideA="454211" sideB="" />
@@ -1110,6 +1110,7 @@
   <card key="goblinelectromancer" sideA="454219" sideB="" />
   <card key="goblinlocksmith" sideA="454149" sideB="" />
   <card key="golgarifindbroker" sideA="454220" sideB="" />
+  <card key="golgariguildgate" sideA="454293" sideB="" />
   <card key="golgarilocket" sideA="454282" sideB="" />
   <card key="golgariraiders" sideA="454175" sideB="" />
   <card key="grapplingsundew" sideA="454176" sideB="" />
@@ -1138,6 +1139,7 @@
   <card key="ionize" sideA="454224" sideB="" />
   <card key="ironshellbeetle" sideA="454179" sideB="" />
   <card key="izonithousandeyed" sideA="454225" sideB="" />
+  <card key="izzetguildgate" sideA="454296" sideB="" />
   <card key="izzetlocket" sideA="454283" sideB="" />
   <card key="joinshields" sideA="454226" sideB="" />
   <card key="justicestrike" sideA="454227" sideB="" />
@@ -1215,6 +1217,7 @@
   <card key="runawaysteamkin" sideA="454160" sideB="" />
   <card key="sacredfoundry" sideA="454299" sideB="" />
   <card key="selectivesnare" sideA="454098" sideB="" />
+  <card key="selesnyaguildgate" sideA="454300" sideB="" />
   <card key="selesnyalocket" sideA="454285" sideB="" />
   <card key="severedstrands" sideA="454130" sideB="" />
   <card key="siegewurm" sideA="454189" sideB="" />
